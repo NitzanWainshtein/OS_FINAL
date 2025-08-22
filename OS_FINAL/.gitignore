@@ -1,0 +1,25 @@
+# Build files
+*.o
+*.out
+bin/*
+obj/*
+reports/*
+
+# Coverage files
+*.gcov
+*.gcda
+*.gcno
+
+# Profiling files
+gmon.out
+
+# Valgrind files
+*.vg
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
